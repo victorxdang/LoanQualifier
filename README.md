@@ -1,33 +1,41 @@
-# Project Title
+# Loan Qualifier
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This program can be used to determine the loans that the applicant is qualified for based on a number of factors. These factors can include the applicant's credit score, monthly debt, monthly income, desired loan amount, among others. A list of qualifying lenders will be provided based on the info above.
 
 ---
+<br>
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This program uses the following packages:
+* Python - v.3.8
+* Fire - v.0.4.0
+* Questionary - v.1.10.0
 
 ---
+<br>
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+* Install [Anaconda](https://www.anaconda.com/). This will install all necessary packages and the Python programming language that is used by this program.
+
+* Install the following packages using pip:
+```
+pip install fire
+pip install questionary
+```
 
 ---
+<br>
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+* Open up the Anaconda terminal and nagivate to the folder where this file is located.
 
----
+* Run the program using the following command:
+```
+python app.py
+```
 
-## Contributors
-
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
-
----
-
-## License
-
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+* Example usage:
+![example_usage](./screenshots/example_usage.gif)
