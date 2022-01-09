@@ -1,0 +1,35 @@
+  296  C:/Users/victo/anaconda3/envs/dev/envs/dev/Scripts/activate
+  297  conda activate C:\Users\victo\anaconda3\envs\dev\envs\dev
+  298  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  299  cd Weekly_Challenges/Module_2_Challenge/Module2Challenge/
+  300  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  301  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe
+  302  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  303  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  304  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  305  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  306  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  307  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  308  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  309  fire --version
+  310  ls
+  311  python app.py 
+  312  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  313  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  314  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  315  C:/Users/victo/anaconda3/envs/dev/envs/dev/python.exe c:/Users/victo/Documents/FinTechWorkspace/Weekly_Challenges/Module_2_Challenge/Module2Challenge/app.py
+  316  clear
+  317  conda activate dev
+  318  python app.py
+  319  clear
+  320  python app.py
+  321  clear
+  322  python app.py
+  323  git add /screenshots
+  324  git add ./screenshots
+  325  git commit -m "Added a gif for example usage"
+  326  git push
+  327  git add README.md 
+  328  git commit -m "Updated README.md file"
+  329  git push
+  330  history 50 > terminal_history.txt

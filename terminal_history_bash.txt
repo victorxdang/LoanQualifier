@@ -1,0 +1,50 @@
+  278  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  279  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  280  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  281  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  282  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  283  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  284  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  285  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  286  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  287  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  288  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  289  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  290  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  291  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  292  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  293  C:/Users/victo/AppData/Local/Programs/Python/Python39/python.exe "c:/Development/Visual Studio Code Projects/AlgorithmicTradingBot/PyTrader/Main.py"
+  294  pip install pandas
+  295  exit
+  296  cd Weekly_Challenges/Module_2_Challenge/Starter_Code/loan_qualifier_app/
+  297  ls
+  298  clear
+  299  ls
+  300  git add .
+  301  cd ../..
+  302  ls
+  303  git clone https://github.com/victorxdang/Module2Challenge.git
+  304  ls
+  305  rm -f Module2Challenge/
+  306  rm -rf Module2Challenge/
+  307  ls
+  308  git clone https://github.com/victorxdang/Module2Challenge.git
+  309  cd Module2Challenge/
+  310  cd ..
+  311  ls
+  312  cd Module2Challenge/
+  313  ls
+  314  git add .
+  315  git commit -m "Initial commit of project"
+  316  git push
+  317  clear
+  318  git add utils/fileio.py
+  319  git add ./utils/fileio.py
+  320  git add qualifier/utils/fileio.py
+  321  git commit -m "Added save_csv() function"
+  322  git push
+  323  ls
+  324  git add app.py
+  325  git commit -m "Updated save_qualifying_loans() function"
+  326  git push
+  327  history 50 > terminal_history_bash.txt
