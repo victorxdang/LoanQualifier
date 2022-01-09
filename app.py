@@ -11,7 +11,10 @@ import fire
 import questionary
 from pathlib import Path
 
-from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import (
+    load_csv, 
+    save_csv
+)
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -103,13 +106,33 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
 
 def save_qualifying_loans(qualifying_loans):
-    """Saves the qualifying loans to a CSV file.
+    """Saves the qualifying loans to a CSV file. Will ask the user whether or not
+    to save the results to a csv file or not.
 
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
+
+    # If no qualifying loans exist, then notify user and exit program
+    if len(qualifying_loans) == 0:
+        sys.exit("No qualifying loans to save! The program will now exit...")
+
+    # Prompt user to save resuls as csv file
+    should_save = questionary.confirm("Do you want to save the results?").ask()
+
+    # If there are qualifying loans, then allow user to not save file
+    if not should_save:
+        sys.exit("Data was not saved.")
+
+    # If user chooses to save, then ask for path to save to
+    csvpath = questionary.text("Enter the name of the file to save to (.csv):").ask()
+    csvpath = Path(csvpath)
+
+    # After saving loan, results should be saved in a csv file
+    save_csv(csvpath, qualifying_loans)
+    print("Data saved to file")
 
 
 def run():
